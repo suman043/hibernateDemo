@@ -1,5 +1,8 @@
 package org.hibernateExample.presentation;
 
+import org.hibernateExample.entity.Employee;
+import org.hibernateExample.service.EmployeeService;
+
 public class Main {
     public static void main(String[] args) {
         EmployeeService employeeService = new EmployeeService();

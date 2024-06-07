@@ -2,6 +2,9 @@ package org.hibernateExample.dao;
 
 import org.hibernate.Session;
 import org.hibernate.Transaction;
+import org.hibernateExample.entity.Employee;
+import org.hibernateExample.util.HibernateUtil;
+
 import java.util.List;
 
 public class EmployeeDAO {

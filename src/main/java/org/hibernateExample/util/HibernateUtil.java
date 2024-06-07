@@ -1,7 +1,5 @@
 package org.hibernateExample.util;
 
-package com.example;
-
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
